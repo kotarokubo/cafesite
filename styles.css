@@ -29,7 +29,7 @@ main {
 #contact{
     background-color: #444;
 }
-#contact form{
+form{
     display: flex;
     flex-direction: column;
 }
