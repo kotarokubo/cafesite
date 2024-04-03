@@ -26,6 +26,9 @@ nav ul li a {
 main {
     padding: 20px;
 }
+#hours{
+    background: pink;
+}
 #contact{
     background-color: #444;
 }
