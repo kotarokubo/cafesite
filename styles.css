@@ -9,6 +9,10 @@ header {
     display: flex;
     justify-content: space-between;
 }
+.header-left,
+.header-right{
+    padding: 2%;
+}
 /* ナビゲーション */
 nav ul {
     list-style-type: none;
