@@ -12,7 +12,9 @@ nav ul {
     display: flex;
     justify-content: space-around;
 }
-
+.shop-info{
+    color:#d44444;
+}
 nav ul li {
     display: inline;
     margin-right: 20px;
