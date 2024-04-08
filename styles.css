@@ -5,7 +5,10 @@ header {
     background-color: #fcbc8c;
     padding: 20px;
 }
-
+.header-top{
+    display: flex;
+    
+}
 /* ナビゲーション */
 nav ul {
     list-style-type: none;
