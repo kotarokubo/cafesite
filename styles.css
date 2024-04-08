@@ -7,7 +7,7 @@ header {
 }
 .header-top{
     display: flex;
-    
+    justify-content: space-between;
 }
 /* ナビゲーション */
 nav ul {
