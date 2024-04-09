@@ -12,6 +12,7 @@ header {
 }
 .header-right{
     color: white;
+    display: flex;
 }
 span .tel{
     color: white;
