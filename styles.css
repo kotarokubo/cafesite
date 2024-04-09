@@ -50,6 +50,7 @@ ul.g-menu{
 nav ul li {
     display: inline;
     width: 200px;
+    list-style: none;
 }
 .shop-info{
     margin: 0px;
