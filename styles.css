@@ -51,10 +51,13 @@ nav ul li {
     display: inline;
     width: 200px;
 }
+ul.shop-info{
+    margin: 0;
+    padding-left: :0;
+}
 ul.shop-info li{
     margin: 0px;
     list-style: none;
-    padding: 0;
 }
 ul.shop-info li::before{
     content: "■";
