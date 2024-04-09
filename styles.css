@@ -58,10 +58,14 @@ nav ul li a {
     color:#d44444;
     font-weight: bold;
 }
+ul.shop-info{
+    list-style: square;
+    padding-left: 0;
+}
 img.x-logo{
     width: 40px;
-    position: absolute;
-    right: 0;
+    text-align: right;
+    bottom: 5%;
 }
 img.logo{
     width: 350px;
