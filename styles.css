@@ -40,13 +40,11 @@ nav ul {
 }
 .g-menu li{
     text-align: center;
-    margin: 0 auto;
     font-weight: bold;
     width: 100px;
 }
 nav ul li {
     display: inline;
-    margin-right: 20px;
 }
 
 nav ul li a {
