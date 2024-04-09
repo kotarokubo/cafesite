@@ -13,6 +13,7 @@ header {
 .header-right{
     color: white;
     display: flex;
+    justify-content: center;
 }
 span .tel{
     color: white;
