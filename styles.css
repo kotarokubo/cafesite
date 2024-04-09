@@ -33,6 +33,8 @@ nav ul {
     display: flex;
     justify-content: space-around;
     width: auto;
+}
+ul.g-menu{
     padding-left: none;
 }
 .g-menu{
