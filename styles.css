@@ -8,7 +8,7 @@ header {
 
 .header-left,
 .header-right{
-    padding: 2%;
+    padding: 2% 0%;
 }
 .header-right{
     color: white;
