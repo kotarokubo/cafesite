@@ -20,8 +20,7 @@ nav ul {
     justify-content: space-around;
 }
 .g-menu li{
-    color:#d44444;
-    text-align: :center;
+    text-align: center;
 }
 nav ul li {
     display: inline;
@@ -30,7 +29,7 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: #333;
+    color:#d44444;
     font-weight: bold;
 }
 img.x-logo{
