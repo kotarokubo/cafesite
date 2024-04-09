@@ -16,6 +16,7 @@ header {
     display: flex;
     justify-content: center;
 }
+/* 電話番号 */
 span .tel{
     color: white;
     font-size: 30px;
