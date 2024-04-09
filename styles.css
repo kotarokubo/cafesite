@@ -17,7 +17,6 @@ header {
     color: white;
     display: flex;
     justify-content: center;
-    position: relative;
 }
 /* 電話番号 */
 span .tel a{
