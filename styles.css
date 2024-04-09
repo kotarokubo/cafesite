@@ -8,6 +8,7 @@ header {
 .header-top{
     display: flex;
     justify-content: space-between;
+    padding: 2%;
 }
 .header-left,
 .header-right{
