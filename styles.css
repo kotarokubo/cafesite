@@ -16,10 +16,12 @@ header {
 span .tel{
     color: white;
     font-size: 30px;
+    font-weight: bold;
 }
-.tel{
+.tel a{
     color: white;
     width: 450px;
+    font-weight: bold;
 }
 /* ナビゲーション */
 nav ul {
@@ -29,6 +31,7 @@ nav ul {
 }
 .g-menu li{
     text-align: center;
+    font-weight: bold;
 }
 nav ul li {
     display: inline;
