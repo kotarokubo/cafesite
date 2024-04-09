@@ -17,10 +17,11 @@ header {
     justify-content: center;
 }
 /* 電話番号 */
-span .tel{
+span .tel a{
     color: white;
     font-size: 30px;
     font-weight: bold;
+    text-decoration: none;
 }
 .tel a{
     color: white;
