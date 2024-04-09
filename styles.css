@@ -54,7 +54,7 @@ nav ul li {
 ul.shop-info{
     margin: 0px;
     list-style: none;
-    padding: 0
+    padding: 0;
 }
 ul.shop-info li::before{
     content: "■";
