@@ -33,6 +33,7 @@ nav ul {
     display: flex;
     justify-content: space-around;
     width: auto;
+    padding-left: none;
 }
 .g-menu{
     display: block;
