@@ -51,7 +51,7 @@ nav ul li {
     display: inline;
     width: 200px;
 }
-.shop-info li::before{
+ul.shop-info li::before{
     content: "■";
     width: 5px;
     height: 5px;
