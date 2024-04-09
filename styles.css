@@ -17,6 +17,10 @@ span .tel{
     color: white;
     font-size: 30px;
 }
+.tel{
+    color: white;
+    width: 250px;
+}
 /* ナビゲーション */
 nav ul {
     list-style-type: none;
