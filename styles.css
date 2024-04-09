@@ -13,6 +13,9 @@ header {
 .header-right{
     padding: 2%;
 }
+.header-right{
+    color: white;
+}
 /* ナビゲーション */
 nav ul {
     list-style-type: none;
@@ -34,28 +37,4 @@ nav ul li a {
 }
 img.x-logo{
     width: 40px;
-}
-/* メインコンテンツ */
-main {
-    padding: 20px;
-}
-.menu{
-    background-color: #eee;
-}
-#hours{
-    background: pink;
-}
-#contact{
-    background-color: #444;
-}
-form{
-    display: flex;
-    flex-direction: column;
-}
-/* フッター */
-footer {
-    background-color: #333;
-    color: #fff;
-    padding: 10px;
-    text-align: center;
 }
