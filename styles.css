@@ -30,8 +30,8 @@ span .tel{
 nav ul {
     list-style-type: none;
     display: flex;
-    justify-content: space-around;
-    width: 100vw;
+    justify-content: center;
+    width: auto;
 }
 .g-menu li{
     text-align: center;
