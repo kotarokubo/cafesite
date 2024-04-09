@@ -5,7 +5,7 @@ header {
     background-color: #fcbc8c;
     padding: 20px;
 }
-.header-top{
+.header_top{
     display: flex;
     justify-content: space-between;
     padding: 1%;
