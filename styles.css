@@ -30,12 +30,12 @@ span .tel a{
 }
 /* ナビゲーション */
 nav ul {
-    display: flex;
-    justify-content: space-around;
     width: auto;
 }
 ul.g-menu{
     padding-left: 0;
+    display: flex;
+    justify-content: space-around;
 }
 .g-menu{
     display: block;
