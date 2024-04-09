@@ -34,9 +34,14 @@ nav ul {
     justify-content: space-around;
     width: auto;
 }
+.g-menu{
+    display: block;
+    margin: 0 auto;
+}
 .g-menu li{
     text-align: center;
     font-weight: bold;
+    width: 100px;
 }
 nav ul li {
     display: inline;
