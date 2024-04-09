@@ -3,7 +3,7 @@
 /* ヘッダー */
 header {
     background-color: #fcbc8c;
-    padding: 20px;
+    padding: 20px 0px 0px 0px;
 }
 
 .header-left,
@@ -31,7 +31,7 @@ span .tel a{
 nav ul {
     list-style-type: none;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     width: auto;
 }
 .g-menu li{
