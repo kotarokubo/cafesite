@@ -5,7 +5,9 @@ header {
     background-color: #fcbc8c;
     padding: 20px 0px 0px 0px;
 }
-
+.header_top{
+    padding: 0% 2%;
+}
 .header-left,
 .header-right{
     padding: 2% 0%;
@@ -15,6 +17,7 @@ header {
     color: white;
     display: flex;
     justify-content: center;
+    position: relative;
 }
 /* 電話番号 */
 span .tel a{
@@ -60,4 +63,6 @@ img.x-logo{
 }
 img.logo{
     width: 350px;
+    position: absolute;
+    right: 0;
 }
