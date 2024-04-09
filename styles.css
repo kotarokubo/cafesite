@@ -13,6 +13,10 @@ header {
 .header-right{
     color: white;
 }
+span .tel{
+    color: white;
+    font-size: 30px;
+}
 /* ナビゲーション */
 nav ul {
     list-style-type: none;
