@@ -19,8 +19,9 @@ nav ul {
     display: flex;
     justify-content: space-around;
 }
-.g-menu{
+.g-menu li{
     color:#d44444;
+    text-align: :center;
 }
 nav ul li {
     display: inline;
