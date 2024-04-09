@@ -19,12 +19,12 @@ header {
 /* 電話番号 */
 span .tel a{
     color: white;
-    font-size: 30px;
     font-weight: bold;
     text-decoration: none;
 }
 .tel a{
     color: white;
+    font-size: 30px;
     font-weight: bold;
 }
 /* ナビゲーション */
