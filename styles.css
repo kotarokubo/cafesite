@@ -24,7 +24,7 @@ span .tel{
 }
 .tel a{
     color: white;
-    width: 450px;
+    display: inline-block;
     font-weight: bold;
 }
 /* ナビゲーション */
