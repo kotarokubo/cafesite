@@ -60,9 +60,9 @@ nav ul li a {
 }
 img.x-logo{
     width: 40px;
+    position: absolute;
+    right: 0;
 }
 img.logo{
     width: 350px;
-    position: absolute;
-    right: 0;
 }
