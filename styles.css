@@ -9,6 +9,7 @@ header {
 .header-left,
 .header-right{
     padding: 2% 0%;
+    width: 50vw;
 }
 .header-right{
     color: white;
